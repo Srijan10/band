@@ -1,8 +1,6 @@
 <!-- Footer Commences Here! -->
 
 </body>
-<?php wp_footer() ?> 
-
 <div class="about">
     <div class="row">
         <div class="col-sm-4 about_school">
@@ -54,4 +52,5 @@
    </div>
   
 </div>
+<?php wp_footer() ?> 
 </html>
