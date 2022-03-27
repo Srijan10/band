@@ -57,18 +57,24 @@ Autho URI:
     width: 70%;
 }
 
-.service_title {
-    margin-top: 30px;
-    font-size: 30px;
-    text-align: center;
-    color: red;
-    font-weight: 900;
+.service_title {  
+        margin-top: 31px;
+        font-size: 30px;
+        text-align: center;
+        color: white;
+        font-weight: 900;
+        background-color: red;
+        height: 100px;
+        padding-top: 24px;
 }
 .happyclient_title {
+    background-color: red;
     font-size: 30px;
     text-align: center;
-    color: red;
+    color: white;
     font-weight: 900;
+    height: 100px;
+    padding-top: 24px;
 }
 
 .service_item {
@@ -166,4 +172,22 @@ h1 {
     color: red;
     font-size: 24px;
     font-weight: 700;
+}
+
+@media screen and (max-width: 1108px ) {
+    .about{
+
+        margin-top: 200px;
+
+    }
+    
+}
+
+@media screen and (max-width: 985px ) {
+    .about{
+
+        margin-top: 225px;
+
+    }
+    
 }

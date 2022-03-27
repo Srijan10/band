@@ -4,12 +4,6 @@
  */
 
 get_header();
-<<<<<<< HEAD
-=======
-echo "hello bandbaja";
-echo "git examopke";
-echo "another amppls";
->>>>>>> d83b48d0e6dd802a65f2489cac212d79642c8043
 ?>
 <!-- Set up your HTML -->
 <?php 
@@ -128,11 +122,8 @@ $(document).ready(function(){
             items:1
         },
         600:{
-            items:3
-        },
-        1000:{
-            items:5
-        }
+            items:3}
+        
     }
 })
 

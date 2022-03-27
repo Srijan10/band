@@ -1,5 +1,5 @@
 <?php 
-/* Template Name: services */
+/* Template Name: happyclient */
 
 
 get_header();
